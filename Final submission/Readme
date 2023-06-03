@@ -1,4 +1,5 @@
 ---------- Referencing Notes -------------------
+
 \begin{thebibliography}{00}
 \bibitem{b1} Kopuri, Shekhar, and Nazanin Mansouri. "Enhancing scheduling solutions through ant colony optimization." 2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No. 04CH37512). Vol. 5. IEEE, 2004.
 %used to mention how ACO can solve scheduling problems during HLD [Abstract and Introduction]
