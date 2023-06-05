@@ -1,0 +1,44 @@
+---------- Referencing Notes -------------------
+
+\begin{thebibliography}{00}
+\bibitem{b1} Kopuri, Shekhar, and Nazanin Mansouri. "Enhancing scheduling solutions through ant colony optimization." 2004 IEEE International Symposium on Circuits and Systems (IEEE Cat. No. 04CH37512). Vol. 5. IEEE, 2004.
+%used to mention how ACO can solve scheduling problems during HLD [Abstract and Introduction]
+
+\bibitem{b2} Enxiu Chen and Xiyu Liu, "Multi-Colony Ant Algorithm," in Ant Colony Optimization Methods and Applications, A. Ostfeld, Ed. Rijeka, Croatia: InTech, 2011, pp. 3-6.
+%Book ANT COLONY OPTIMIZATION METHODS AND APPLICATIONS Edited by Avi Ostf eld
+%chaptre Multi-Colony Ant Algorithm were used to write the introduction of how ACO was inspired by animal natural behavior [1. introduction] and then used part [2. basic ant colony optimization algorithm] to explain aco, tsp problem, mention MMAS algo, used figure and explain the different rules of Aco: update, initialization, and movement, and stopping rule
+
+\bibitem{b3} W. Deng, J. Xu and H. Zhao, "An Improved Ant Colony Optimization Algorithm Based on Hybrid Strategies for Scheduling Problem," in IEEE Access, vol. 7, pp. 20281-20292, 2019, doi: 10.1109/ACCESS.2019.2897580.
+%used for writing the introduction and mentioning the different optimization-related problems that ACO can solve [introduction]
+
+\bibitem{b4}  V. Maniezzo, L. M. Gambardella, and F. De Luigi, "Ant colony optimization," in New Optimization Techniques in Engineering, vol. 1, no. 5, 2004, pp 101–121.
+%chaptre 5 Ant colony optimization was used to write the introduction about how meta heristic algo arebuilt and how ACO uses prior knowledge to achieve better solutions [introduction]
+
+\bibitem{b5} M. Koudil, et al., "Solving partitioning problem in codesign with ant colonies," in Artificial Intelligence and Knowledge Engineering Applications: A Bioinspired Approach: First International Work-Conference on the Interplay Between Natural and Artificial Computation, IWINAC 2005, Las Palmas, Canary Islands, Spain, June 15-18, 2005, Proceedings, Part II, vol. 1, Springer Berlin Heidelberg, 2005.
+%chaptre used : Solving partitioning problems in codesign with ant colonies. helped in writing the abstract of this paper about the inspiration behind ACO and mentioned that ant colonies are used to solve scheduling problems [4. solving partitioning with ant colonies]
+
+\bibitem{b6} Elie Torbey and John Knight. High-level synthesis of digital circuits using genetic algorithms. In 1998 IEEE International Conference on Evolutionary Computation Proceedings. IEEE World Congress on Computational Intelligence (Cat. No. 98TH8360), pages 224–229. IEEE, 1998.
+%used to write the background of hls concept and talk about its advantages in terms of cost reduction [introduction]
+
+\bibitem{b7}P. Coussy, D. D. Gajski, M. Meredith and A. Takach, "An Introduction to High-Level Synthesis," in IEEE Design \& Test of Computers, vol. 26, no. 4, pp. 8-17, July-Aug. 2009, doi: 10.1109/MDT.2009.69.
+%used for writing the background part of HLS concept and mention the advantages of hsls in terms of facilitating synthesis and verification + used HLS flow figure and mention the different hls design steps
+
+\bibitem{b8} P. Schaumont, "Hardware/software co-design is a starting point in embedded systems architecture education," in Proceedings of the Workshop on Embedded Systems Education, 2008.
+%used for writing subsection of HW/SW codesign and explaining what it is briefly and how it is important for developing embedded sys [introduction]
+
+\bibitem{b9} P. R. Schaumont, "The nature of hardware and software" in Practical Introduction to Hardware/Software Codesign. Boston, MA: Springer, pp. 11-18, 2012
+%used for defining what is hardware/software codesign [1.1.4 defining hardware software codesign] and to use the figure of design space and commenting on it [1.4.1 the platform design space]
+
+\bibitem{b10} M. Dorigo, M. Birattari and T. Stutzle, "Ant colony optimization," in IEEE Computational Intelligence Magazine, vol. 1, no. 4, pp. 28-39, Nov. 2006, doi: 10.1109/MCI.2006.329691.
+%used for explaining ACO algorithm through a pseudo code and explaining its functions + explaining TSP problem and using it figure [A. ACO for the Traveling Salesman Problem & B. The Ant Colony Optimization Metaheuristic]
+
+\bibitem{b11} Shih-An Li, Min-Hao Yang, Chung-Wei Weng, Yi-Hong Chen, Chia-Hung Lo, and Ching-Chang Wong. "Ant colony optimization algorithm design and its FPGA implementation," 2012 International Symposium on Intelligent Signal Processing and Communications Systems, Tamsui, Taiwan, 2012, pp. 262-265, doi: 10.1109/ISPACS.2012.6473492.
+%used for explaining ACO path selection process and explain the fpga implementation of ACO and the different circuit blocks [III. ANT COLONY OPTIMIZATION ALGORITHM & IV. HARDWARE/SOFTWARE CO-DESIGN]
+
+\bibitem{b12} T. S. Hall and J. O. Hamblen, "Using system-on-a-programmable-chip technology to design embedded systems," in Proceedings of the IEEE, vol. 13, no. 3, pp. 142-152, Sep. 2006.
+%this reference is used for explaining why SOPC system for the FPGA programming and software and hardware are integrated using this modality and how HW&SW are integrated together in one system development process [4 SoPC Design Flow] and used the processor figure [4.1 Processor Core Configuration Tools]
+
+\bibitem{b13}B. Scheuermann, et al., "FPGA implementation of population-based ant colony optimization," Applied Soft Computing, vol. 4, no. 3, pp. 303-322, 2004, doi: 10.1016/j.asoc.2004.03.008.
+%used for explaining the challenges designers face when they implement standard ACO directly on FPGA and mention the improved algorithm for this P-ACO [3.2. Problems mapping standard ACO to FPGA]
+
+\end{thebibliography}
